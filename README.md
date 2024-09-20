@@ -9,3 +9,4 @@
 ### - Novice at programming, but sure have a big aim on the career!
 ## - Aqui estão linguagens de programação que tive contato recentemente e aprendi um pouco: Java; JavaScript; Python.
 ### - Programming languages that i've had contact recently and learned: Java; JavaScript; Python.
+![Header](![github-header-image](https://github.com/user-attachments/assets/a2e2cc1a-e880-4556-b986-02887ea85e0b))
